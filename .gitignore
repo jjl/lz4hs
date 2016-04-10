@@ -6,3 +6,4 @@ cabal-dev*
 *.chs.h
 *~
 tests/Properties
+.stack-work
